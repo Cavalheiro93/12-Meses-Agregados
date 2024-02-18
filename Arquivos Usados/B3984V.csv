@@ -1,0 +1,4 @@
+np;dtultatuali;baumuster;compbaumuster;fz;codpais;dtprov;sat;dtmon;linha;nseqdef;vin;vis;codcor;dtstatus;nupontocont;denominacao;codmotivo;dtconf;nuprst;varned;varbruta;varexata;pneus;pt1;pt2;pd1;pd2;aro;nped;nf;nfc;kanban;varcodificada;desdobramento;tipocabina;tipoveiculo;classeveiculo;serieveiculo;dtplan;codcliente;afab;libkitckd;sat-2;ponto_controle;entrada_linha;fim_linha;saida_linha;veiculo_faturado;liberacao_controle;liberacao_controle_1a;statusdb;status;familia;data_planejada;data_modificacao
+111111111;15/12/2023 00:00;;2548;;;;;;A;;;;;01/12/2016 00:00;;VEICULO 1;;;;QVVXXXXXXXX1;;;;;;;;;;;;;;;;CAMINHOES;SEMIPESADOS;VEICULO 1;;;;;;;;;;;;;;;;;
+222222222;30/11/2023 00:00;;2548;;;;;;H;;;;;30/11/2023 00:00;;VEICULO 2;;;;QVVXXXXXXXX2;;;;;;;;;;;;;;;;CAMINHOES;EXTRAPESADOS;VEICULO 2;;;;;;;;;;;;;;;;;
+333333333;18/10/2023 00:00;;2651;;;;;;H;;;;;18/10/2023 00:00;;VEICULO 3;;;;QVVXXXXXXXX3;;;;;;;;;;;;;;;;CAMINHOES;EXTRAPESADOS;VEICULO 3;;;;;;;;;;;;;;;;;
